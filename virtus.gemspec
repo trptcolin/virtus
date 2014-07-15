@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.email       = [ "piotr.solnica@gmail.com" ]
   gem.description = "Attributes on Steroids for Plain Old Ruby Objects"
   gem.summary     = gem.description
-  gem.homepage    = "https://github.com/solnic/virtus"
+  gem.homepage    = 'https://github.com/trptcolin/virtus/tree/rp_deploy'
   gem.license     = 'MIT'
 
   gem.require_paths    = [ "lib" ]
